@@ -1,4 +1,5 @@
 # Phân vùng ổ cứng cài Windows chuẩn UEFI
+# File cấu hình chỉ cần copy và thư mục source là được
 
 ## Các câu lệnh
 Thực hiện tuần tự
